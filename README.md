@@ -26,6 +26,6 @@
 |  |  | [react-shopping-cart-prod-step2](https://github.com/HyeryongChoi/react-shopping-cart-prod/tree/step2) | [PR](https://github.com/woowacourse/react-shopping-cart-prod/pull/143) | [회고](https://velog.io/@chex/%EC%9A%B0%EC%95%84%ED%95%9C%ED%85%8C%ED%81%AC%EC%BD%94%EC%8A%A4-FE-5%EA%B8%B0-%EB%A0%88%EB%B2%A82-%EC%87%BC%ED%95%91%EC%A3%BC%EB%AC%B8%ED%98%91%EC%97%85-%EB%AF%B8%EC%85%98-%ED%9A%8C%EA%B3%A0) |  |
 
 ## 레벨3 - Team Project
-|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;PROJECT&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;REPOSITORY&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|
-| :--------------------------------: | :--------------------------------: |
-| 집사의고민 | [2023-zipgo](https://github.com/woowacourse-teams/2023-zipgo) |
+|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;PROJECT&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;REPOSITORY&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;WEBSITE&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;WIKI&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|
+| :--------------------------------: | :--------------------------------: | :--------------------------------: | :--------------------------------: |
+| 집사의고민 | [2023-zipgo](https://github.com/woowacourse-teams/2023-zipgo) | [zipgo.pet](https://zipgo.pet) | [zipgo-wiki](https://github.com/woowacourse-teams/2023-zipgo/wiki)
