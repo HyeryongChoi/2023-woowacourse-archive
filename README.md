@@ -15,8 +15,8 @@
 ## 레벨2 - React
 | NO. | PROJECT | REPOSITORY | PR | REVIEW | PAIR |
 | :-: | :---: | :-----: | :--: | :--: | :---: |
-| 1 | 다시, 점심 뭐 먹지 | [react-lunch-step1](https://github.com/HyeryongChoi/react-lunch/tree/step1) | [PR](https://github.com/woowacourse/react-lunch/pull/25#event-9010664544) | [회고](https://velog.io/@chex/%EC%9A%B0%EC%95%84%ED%95%9C%ED%85%8C%ED%81%AC%EC%BD%94%EC%8A%A4-FE-5%EA%B8%B0-%EB%A0%88%EB%B2%A82-%EB%8B%A4%EC%8B%9C-%EC%A0%90%EC%8B%AC-%EB%AD%90-%EB%A8%B9%EC%A7%80-%EB%AF%B8%EC%85%98-%ED%9A%8C%EA%B3%A0) | [레고](https://github.com/regularPark) |
-|  |  | [react-lunch-step2](https://github.com/HyeryongChoi/react-lunch/tree/step2) | [PR](https://github.com/woowacourse/react-lunch/pull/71#event-9039072321) |  |  |
+| 1 | 다시, 점심 뭐 먹지 | [react-lunch-step1](https://github.com/HyeryongChoi/react-lunch/tree/step1) | [PR](https://github.com/woowacourse/react-lunch/pull/25) | [회고](https://velog.io/@chex/%EC%9A%B0%EC%95%84%ED%95%9C%ED%85%8C%ED%81%AC%EC%BD%94%EC%8A%A4-FE-5%EA%B8%B0-%EB%A0%88%EB%B2%A82-%EB%8B%A4%EC%8B%9C-%EC%A0%90%EC%8B%AC-%EB%AD%90-%EB%A8%B9%EC%A7%80-%EB%AF%B8%EC%85%98-%ED%9A%8C%EA%B3%A0) | [레고](https://github.com/regularPark) |
+|  |  | [react-lunch-step2](https://github.com/HyeryongChoi/react-lunch/tree/step2) | [PR](https://github.com/woowacourse/react-lunch/pull/71) |  |  |
 | 2 | 페이먼츠 | [react-payments-step1](https://github.com/HyeryongChoi/react-payments/tree/step1) | [PR](https://github.com/woowacourse/react-payments/pull/201) | [회고](https://velog.io/@chex/%EC%9A%B0%EC%95%84%ED%95%9C%ED%85%8C%ED%81%AC%EC%BD%94%EC%8A%A4-FE-5%EA%B8%B0-%EB%A0%88%EB%B2%A82-%ED%8E%98%EC%9D%B4%EB%A8%BC%EC%B8%A0-%EB%AF%B8%EC%85%98-%ED%9A%8C%EA%B3%A0) | [센트](https://github.com/kyw0716) |
 |  | | [react-payments-step2](https://github.com/HyeryongChoi/react-payments/tree/step2) | [PR](https://github.com/woowacourse/react-payments/pull/261) |  |  |
 |  |  | [react-payments-step3](https://github.com/HyeryongChoi/react-payments/tree/step3) | [PR](https://github.com/woowacourse/react-payments/pull/292) |  |  |
